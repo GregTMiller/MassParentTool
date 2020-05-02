@@ -6,6 +6,8 @@ Confirmed Support up to Unity 2019.3
 
 Should work with any version of Unity that supports Custom Editors
 
+To access, go to Window/ParentTool
+
 Fuctions:
 
 -Quickly parent a infinite amount of objects in a signle click
