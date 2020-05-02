@@ -18,6 +18,8 @@ Fuctions:
 
 -Unparent highlighted objects in a single click
 
+-In-Editor Pop-Ups that can be disabled by selecting Pro Mode
+
 -Debugging and Logging Tools
 
 Patch Notes:
