@@ -13,6 +13,7 @@ Fuctions:
 -Debugging and Logging Tools
 
 Patch Notes:
-Added in V2: Ability to rename objects on parent, added button to create new Empty Gameobject and insert it into the parent slot, added the ability to remove highlighted objects from their parents, added option to disable patch notes at bootup
+Added in V2: Ability to rename objects on parent, added button to create new Empty Gameobject and insert it into the parent slot,
+added the ability to remove highlighted objects from their parents, added option to disable patch notes at bootup
 Added in V1: Pro Mode, Debug Mode, QoL changes
 Added in Beta: Unparent Tool, Selection via Mouse
